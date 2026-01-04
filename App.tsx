@@ -523,11 +523,11 @@ export default function App() {
                      
                      {/* Updated Price Box */}
                      <div className="mb-8 p-6 bg-brand-900/20 rounded-xl border border-brand-500/30 backdrop-blur-sm text-center">
-                        <div className="flex items-end justify-center gap-2 mb-2">
-                            <span className="text-xl text-brand-200 mb-2 font-medium">12x de</span>
-                            <span className="text-6xl font-extrabold text-white tracking-tighter">R$ 361,67</span>
+                        <div className="flex items-center justify-center gap-1.5 sm:gap-2 mb-2">
+                            <span className="text-lg sm:text-xl text-brand-200 font-medium">12x de</span>
+                            <span className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tighter">R$ 361,67</span>
                         </div>
-                        <div className="text-slate-400 text-sm">
+                        <div className="text-slate-400 text-xs sm:text-sm">
                             ou à vista por <span className="font-bold text-white">R$ 3.497,00</span>
                         </div>
                      </div>
