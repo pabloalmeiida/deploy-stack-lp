@@ -1,0 +1,5 @@
+{
+  "name": "Deploy Stack",
+  "description": "Conjunto de automações para gestores de tráfego escalarem operação sem depender de pessoas.",
+  "requestFramePermissions": []
+}
